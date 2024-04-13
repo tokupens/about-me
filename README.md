@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tokupensx07</h1>
-<h3 align="center">Programmer giving knowledge from Indonesia</h3>
+<h3 align="center">Saya adalah seorang penetration testing</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokupensx07&label=Profile%20views&color=0e75b6&style=flat" alt="tokupensx07" /> </p>
