@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm tokupensx07</h1>
 <h3 align="center">Programmer giving knowledge from Indonesia</h3>
 
-<img align="right" alt="coding"width="400" src="https://github.com/shameemkabeer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokupensx07&label=Profile%20views&color=0e75b6&style=flat" alt="tokupensx07" /> </p>
 
